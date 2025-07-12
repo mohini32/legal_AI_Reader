@@ -1,0 +1,34 @@
+
+SAMPLE SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on January 15, 2024,
+between TechCorp Inc., a Delaware corporation ("Company"), and
+Professional Services LLC, a California limited liability company ("Provider").
+
+1. SERVICES
+Provider shall provide software development and consulting services
+as described in Exhibit A attached hereto.
+
+2. COMPENSATION
+The total contract value is $250,000, payable in monthly installments
+of $20,833.33 over 12 months. Payment terms are Net 30 days.
+
+3. TERM
+This Agreement shall commence on February 1, 2024, and expire on
+January 31, 2025, unless terminated earlier in accordance with this Agreement.
+
+4. TERMINATION
+Either party may terminate this Agreement with sixty (60) days written notice.
+
+5. LIABILITY
+Company's liability under this Agreement shall be limited to the total
+amount paid by Provider under this Agreement.
+
+6. CONFIDENTIALITY
+Both parties acknowledge that they may have access to confidential information
+and agree to maintain such information in strict confidence.
+
+Contact Information:
+Company: legal@techcorp.com, (555) 123-4567
+Provider: contracts@proservices.com, (555) 987-6543
+        

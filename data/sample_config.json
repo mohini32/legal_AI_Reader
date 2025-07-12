@@ -1,0 +1,15 @@
+{
+  "model_settings": {
+    "confidence_threshold": 0.8,
+    "max_text_length": 100000,
+    "enable_caching": true
+  },
+  "risk_assessment": {
+    "high_risk_threshold": 7.0,
+    "medium_risk_threshold": 4.0
+  },
+  "processing": {
+    "enable_parallel": true,
+    "max_workers": 4
+  }
+}

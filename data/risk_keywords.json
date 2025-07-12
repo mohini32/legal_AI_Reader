@@ -1,0 +1,38 @@
+{
+  "high_risk": [
+    "unlimited liability",
+    "personal guarantee",
+    "liquidated damages",
+    "immediate termination",
+    "no cure period",
+    "broad indemnification",
+    "joint and several liability",
+    "waiver of jury trial",
+    "confession of judgment",
+    "attorney fees and costs"
+  ],
+  "medium_risk": [
+    "penalty",
+    "forfeit",
+    "breach",
+    "default",
+    "suspend",
+    "terminate for convenience",
+    "exclusive dealing",
+    "non-compete",
+    "restraint of trade",
+    "specific performance",
+    "injunctive relief",
+    "material adverse change"
+  ],
+  "low_risk": [
+    "reasonable efforts",
+    "commercially reasonable",
+    "good faith",
+    "mutual agreement",
+    "standard terms",
+    "industry standard",
+    "customary",
+    "reasonable notice"
+  ]
+}
